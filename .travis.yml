@@ -1,5 +1,5 @@
 language: c  
 sudo: false # only for faster builds  
 script:  
-	- gcc -o test test.c  
-	- ./test  
+- gcc -o test test.c  
+- ./test  
